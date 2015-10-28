@@ -1,0 +1,23 @@
+name: ux
+favicon: null
+layout_spectrum: 0.12877838383428752
+typography_spectrum: 0.592274994822219
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38671045913361013
+  lightness: 0.4509980196598917
+  saturation: 0.21796757238917053
+  rhythmicContrast: 0.6365552516654134
+purpose: []
